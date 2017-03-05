@@ -1,11 +1,1 @@
-﻿#	Comment
-tempfile.txt
-.DS_Store
-*.zip
-*.gz
-log/*.log
-log/*.log.[0-9]
-assets/photoshop/
-assets/videos/
-#	these files should be included
-!assets/videos/tour_*.mp4
+﻿
